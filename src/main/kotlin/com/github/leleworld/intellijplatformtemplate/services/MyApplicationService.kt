@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.leleworld.intellijplatformtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.leleworld.intellijplatformtemplate.MyBundle
 
 class MyApplicationService {
 
